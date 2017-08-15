@@ -9,6 +9,15 @@ p{
   font-size: 20px;
   color: green;
 }
-#checkbox{
-  border: green;
+h2{
+  color: darkgreen;
+}
+#transportation_survey {
+  color: green;
+}
+#work-responses {
+  color: blue;
+}
+#fun-responses {
+  color: purple;
 }
