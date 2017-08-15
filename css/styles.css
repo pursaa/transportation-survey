@@ -1,3 +1,14 @@
 #work-responses{
   display: none;
 }
+#fun-responses{
+  display: none;
+}
+
+p{
+  font-size: 20px;
+  color: green;
+}
+#checkbox{
+  border: green;
+}
